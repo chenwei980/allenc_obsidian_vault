@@ -12,3 +12,5 @@
 **_Recommend_** 1 to 3 **_dinner venues_**; for receiving the **_former vice president_**
 
 ![400](assets/Kenya/file-20260128233852444.png)
+
+https://github.com/TarsLab/obsidian-tars
