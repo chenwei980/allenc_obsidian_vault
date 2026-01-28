@@ -11,3 +11,4 @@
 **_One SUV_** and **_one driver_**; for local travel in **_Kenya_**
 **_Recommend_** 1 to 3 **_dinner venues_**; for receiving the **_former vice president_**
 
+![400](assets/Kenya/file-20260128233852444.png)
