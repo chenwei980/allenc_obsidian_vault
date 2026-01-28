@@ -14,3 +14,4 @@
 ![400](assets/Kenya/file-20260128233852444.png)
 
 https://github.com/TarsLab/obsidian-tars
+
