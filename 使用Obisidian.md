@@ -10,6 +10,8 @@
 Github同步
 
 # Custom Attachment Location
-# 
 
-# Base
+
+# Base数据库插件
+
+# Tars大模型插件
