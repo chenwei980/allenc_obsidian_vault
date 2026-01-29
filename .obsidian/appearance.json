@@ -1,4 +1,5 @@
 {
   "interfaceFontFamily": "Arial",
-  "textFontFamily": "Arial"
+  "textFontFamily": "Arial",
+  "baseFontSize": 20
 }
